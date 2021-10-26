@@ -2,6 +2,7 @@ RENCANA KONTEN CING
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Angular
     ^ Vue
     ^ React
 - Struktur Data Dasar
